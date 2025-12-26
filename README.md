@@ -7,6 +7,11 @@ I’m passionate about understanding attacker behavior, improving detections, an
 
 ---
 
+## 🎯 Career Objective
+To transition into an **Incident Response / Threat Hunting** role by building strong foundations in investigation workflows, forensic analysis, and attacker behavior aligned with **MITRE ATT&CK** and **NIST Incident Response** practices.
+
+---
+
 ## ⚡ Core Focus Areas
 - **Incident Response** – Alert triage, investigation support, and incident documentation  
 - **Threat Hunting** – Identifying suspicious activity and attacker techniques beyond alerts  
@@ -42,4 +47,15 @@ I’m passionate about understanding attacker behavior, improving detections, an
 ---
 
 ## 📫 Connect With Me
-<
+<div>
+  <a href="https://www.linkedin.com/in/fadhli-mayati-a74687291/">
+    <img src="https://img.shields.io/badge/LinkedIn-Fadhli_Mayati-0072B1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:fadhlimayati123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-fadhlimayati123%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+⭐ *“Threats evolve — so do defenders.”*
