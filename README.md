@@ -7,11 +7,6 @@ I’m passionate about understanding attacker behavior, improving detections, an
 
 ---
 
-## 🎯 Career Objective
-To transition into an **Incident Response / Threat Hunting** role by building strong foundations in investigation workflows, forensic analysis, and attacker behavior aligned with **MITRE ATT&CK** and **NIST Incident Response** practices.
-
----
-
 ## ⚡ Core Focus Areas
 - **Incident Response** – Alert triage, investigation support, and incident documentation  
 - **Threat Hunting** – Identifying suspicious activity and attacker techniques beyond alerts  
