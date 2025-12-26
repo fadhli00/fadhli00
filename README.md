@@ -7,11 +7,6 @@ I’m passionate about understanding attacker behavior, improving detections, an
 
 ---
 
-## 🎯 Career Objective
-To transition into an **Incident Response / Threat Hunting** role by building strong foundations in investigation workflows, forensic analysis, and attacker behavior aligned with **MITRE ATT&CK** and **NIST Incident Response** practices.
-
----
-
 ## ⚡ Core Focus Areas
 - **Incident Response** – Alert triage, investigation support, and incident documentation  
 - **Threat Hunting** – Identifying suspicious activity and attacker techniques beyond alerts  
@@ -31,8 +26,10 @@ To transition into an **Incident Response / Threat Hunting** role by building st
 ---
 
 ## 🎓 Certifications
-- **CompTIA CySA+**  
-- **ISC2 Certified in Cybersecurity (CC)**  
+<div>
+  <img src="https://img.shields.io/badge/CompTIA_CySA%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ISC2_CC-008000?style=for-the-badge&logoColor=white"/>
+</div>
 
 ---
 
@@ -45,9 +42,4 @@ To transition into an **Incident Response / Threat Hunting** role by building st
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/fadhli-mayati-a74687291  
-- 📧 Email: fadhlimayati123@gmail.com  
-
----
-
-⭐ *“Threats evolve — so do defenders.”*
+<
