@@ -53,4 +53,4 @@ I’m passionate about understanding attacker behavior, improving detections, an
 ---
 
 ⭐ *“Threats evolve
-    so do defenders.”*
+so do defenders.”*
