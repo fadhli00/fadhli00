@@ -36,7 +36,6 @@ I’m passionate about understanding attacker behavior, improving detections, an
 ## 🌱 Currently Developing
 - Incident Response investigation skills  
 - Threat hunting methodologies  
-- DFIR fundamentals (memory & disk analysis)  
 - Blue team mindset and analytical thinking  
 
 ---
@@ -45,7 +44,7 @@ I’m passionate about understanding attacker behavior, improving detections, an
 <div>
   <a href="https://www.linkedin.com/in/fadhli-mayati-a74687291/">
     <img src="https://img.shields.io/badge/LinkedIn-Fadhli_Mayati-0072B1?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+ 
   <a href="mailto:fadhlimayati123@gmail.com">
     <img src="https://img.shields.io/badge/Email-fadhlimayati123%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
