@@ -16,8 +16,6 @@ I’m passionate about understanding attacker behavior, improving detections, an
 
 ## 🏢 Professional Experience
 **SOC Analyst**  
-*MSSP Environment*  
-**Experience:** ~1 year 4 months  
 
 - Monitoring and triaging security alerts  
 - Supporting incident investigations and escalation  
