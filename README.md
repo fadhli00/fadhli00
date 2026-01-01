@@ -25,9 +25,14 @@ I’m passionate about understanding attacker behavior, improving detections, an
 
 ## 🎓 Certifications
 <div>
-  <img src="https://img.shields.io/badge/CompTIA_CySA%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ISC2_CC-008000?style=for-the-badge&logoColor=white"/>
+  <a href="https://www.credly.com/badges/d85e9f80-df7c-41c3-9047-815ed6e4b42e/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/CompTIA_CySA%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white"/>
+  </a>
+  <a href="https://www.credly.com/badges/742db020-4bac-42c9-9d4a-c86790795a51/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/ISC2_CC-008000?style=for-the-badge&logoColor=white"/>
+  </a>
 </div>
+
 
 ---
 
