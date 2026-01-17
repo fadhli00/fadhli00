@@ -36,13 +36,6 @@ I’m passionate about understanding attacker behavior, improving detections, an
 
 ---
 
-## 🌱 Currently Developing
-- Incident Response investigation skills  
-- Threat hunting methodologies  
-- Blue team mindset and analytical thinking  
-
----
-
 ## 📫 Connect With Me
 <div>
   <a href="https://www.linkedin.com/in/fadhli-mayati-a74687291/">
