@@ -1,6 +1,6 @@
 # 🛡️ Hi, I’m Fadhli
 
-**SOC Analyst** | Aspiring **Incident Responder • Threat Hunter • DFIR Analyst**
+**SOC Analyst**
 
 I’m a SOC Analyst working in an **MSSP environment** with hands-on experience triaging security alerts and supporting incident investigations.  
 I’m passionate about understanding attacker behavior, improving detections, and growing into advanced **Incident Response**, **Threat Hunting**, and **Digital Forensics (DFIR)** roles.
