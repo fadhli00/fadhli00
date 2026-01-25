@@ -1,0 +1,17 @@
+# 🧠 terminal lore
+
+This repo is not a project.  
+It’s context.
+
+If you’re the kind of person who checks files before judging a profile,  
+you might enjoy this.
+
+---
+
+## ▶ run it
+
+```bash
+git clone https://github.com/fadhli00/aboutpali.git
+cd aboutpali
+chmod +x lore.sh
+./lore.sh
